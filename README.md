@@ -3,5 +3,4 @@ Predicting fertilization outcomes and sex-specific liabilities using pedigree in
 
 The study utilizes retrospective data from 17 overlapping generations of selectively bred Arctic charr from the [Icelandic breeding program](https://www.holaraquatic.is/breeding-program.html).
 
-
-<img width="2909" height="4289" alt="2_tower_results" src="https://github.com/user-attachments/assets/937c9277-601b-4601-8231-0a21505cada9" />
+<img width="2909" height="4289" alt="2_tower_results" src="https://github.com/user-attachments/assets/c44ccaa3-7a79-4721-9d82-f5d1dd2f556a" />
