@@ -1,0 +1,4 @@
+-input: vectors of additive genetic relationships to breeding founders.
+-model: Two-tower MLPs followed by multiplicative fusion (probabilistic interpretation - probit-links for tower outputs).
+-trained on: aggregate binary outcome (reproductive success/fail).
+-output: aggregate reproductive result and sex-specific liabilities.
